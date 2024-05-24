@@ -1,0 +1,31 @@
+{
+    "enabled": true,
+    "services": [
+      "Service1",
+      "Service2",
+      "PeerDistSvc",
+      "spooler"
+    ],
+    
+    
+    "url": "https://google.com",
+    "certcheck": true,
+    "website": true,
+
+
+
+    "sysenabled": true,
+    "disks": [
+        "C:\\",
+        "E:\\",
+        "D:\\"
+      ],
+
+    
+    "mailenabled": true,
+    "smtp": "monitor@test.com",
+    "port": "25",
+    "from": "from address",
+    "to": "toaddress"
+  }
+  

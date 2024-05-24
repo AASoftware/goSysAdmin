@@ -1,0 +1,13 @@
+following services not running:
+
+PeerDistSvc
+-----------------------------------------------------------------------------------
+following WebApp errors occurred:
+
+https://google.com: certificate expires in less than 3 months (expiry date: 2024-07-29 13:42:08 +0000 UTC)
+-----------------------------------------------------------------------------------
+Diskspace low on following Disks:
+
+Low Disk Space Drive:E:\, free:0.000000
+Low Disk Space Drive:D:\, free:0.000000
+-----------------------------------------------------------------------------------
